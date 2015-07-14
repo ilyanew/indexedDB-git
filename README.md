@@ -1,3 +1,0 @@
-# indexedDB-git
-test
-test
